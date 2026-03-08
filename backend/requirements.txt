@@ -1,0 +1,5 @@
+pymongo
+certifi
+opencv-python
+face-recognition
+numpy
